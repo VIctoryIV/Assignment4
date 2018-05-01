@@ -1,4 +1,4 @@
-## Assignment4
+## Assignment4 Getting and Cleaning data
 
 ##This read.me describes steps of creating a final data set including comments combined with scripts
 ##You may read in the final data set from final.csv or final.txt in my repository (you may choose any from 2 formats)
